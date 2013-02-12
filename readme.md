@@ -1,0 +1,3 @@
+# Snohetta
+
+Faster Scala BigInteger
