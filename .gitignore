@@ -27,6 +27,7 @@ results
 
 ## Java
 *.class
+target/
 
 ## Python
 *.pyc
