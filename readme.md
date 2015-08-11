@@ -2,7 +2,7 @@
 
 Faster Scala BigInteger.
 
-Developed during my personal research with projects that required faster math libraries but that used Scala.
+Developed during my personal research with projects that required faster math libraries but that used Scala. In particular computing extremely large numbers.
 
 ## Usage
 
