@@ -19,11 +19,13 @@ sbt test
 ## Status
 
 JVM Cold:
+
     [info]   + Scala BigInt: 5620 ms
     [info]   + Scala BigInt2: 2173 ms
     [info]   + BigInt2 Parallel: 648 ms
 
 JVM Warmed:
+
     [info]   + Scala BigInt: 5510 ms
     [info]   + Scala BigInt2: 1831 ms
     [info]   + BigInt2 Parallel: 561 ms
